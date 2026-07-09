@@ -1,6 +1,11 @@
 name = "edgetunnel-self"
 pages_build_output_dir = ""
 
+[vars]
+ADMIN = "bluescan2024"
+KEY = "bluescan"
+UUID = "90cd4a77-141a-43c9-991b-08263cfe9c10"
+
 [[kv_namespaces]]
 binding = "KV"
 id = "79e3381a4a9d4075b33f56bf1a92a862"
