@@ -1,9 +1,0 @@
-name = "v20251104"
-main = "_worker.js"
-compatibility_date = "2025-11-04"
-keep_vars = true
-pages_build_output_dir = "/"
-
-[[kv_namespaces]]
-binding = "KV"
-id = "79e3381a4a9d4075b33f56bf1a92a862"
